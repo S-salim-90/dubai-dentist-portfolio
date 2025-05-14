@@ -37,7 +37,7 @@ const Navigation = () => {
         <div className="flex justify-between items-center">
           <div className="flex items-center">
             <a href="#" className="text-2xl font-serif font-bold text-dental-600">
-              DrSmile
+              Mr Smile
             </a>
           </div>
           

@@ -21,7 +21,7 @@ const Index = () => {
       <footer className="bg-dental-800 text-white py-12">
         <div className="container mx-auto px-4">
           <div className="text-center">
-            <h3 className="text-xl font-serif font-bold mb-3">DrSmile Dental Portfolio</h3>
+            <h3 className="text-xl font-serif font-bold mb-3">Mr Smile Dental Portfolio</h3>
             <p className="text-dental-100">
               Creating confident, beautiful smiles in Dubai
             </p>
